@@ -1,0 +1,47 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/Insti dam/Entornos de desarrollo/UD8/Prueba/EntradaBlogAVC/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Insti dam/Entornos de desarrollo/UD8/Prueba/EntradaBlogAVC/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EntradaBlogAVC 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'EntradaBlogAVC 1.0-SNAPSHOT API'
+'D:/Insti dam/Entornos de desarrollo/UD8/Prueba/EntradaBlogAVC/src/main/java/EntradaBlogAVC.java'
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\src\main\java\EntradaBlogAVC.java = 1677075582484
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\src\main\java = 1677075572338
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\allclasses-index.html = 1677076681357
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\allpackages-index.html = 1677076681359
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\element-list = 1677076681328
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\EntradaBlogAVC.html = 1677076681326
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\help-doc.html = 1677076681380
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\index-all.html = 1677076681374
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\index.html = 1677076681375
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\jquery-ui.overrides.css = 1677076681404
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\member-search-index.js = 1677076681366
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\module-search-index.js = 1677076681360
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\overview-tree.html = 1677076681349
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\package-search-index.js = 1677076681361
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\package-summary.html = 1677076681334
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\package-tree.html = 1677076681337
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\package-use.html = 1677076681347
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\script.js = 1677076681383
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\search.js = 1677076681385
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\stylesheet.css = 1677076681382
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\tag-search-index.js = 1677076681367
+D:\Insti dam\Entornos de desarrollo\UD8\Prueba\EntradaBlogAVC\target\site\apidocs\type-search-index.js = 1677076681365
